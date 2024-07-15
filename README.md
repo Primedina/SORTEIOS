@@ -11,5 +11,11 @@ Pode ser escolhido dois valores, positivos ou negativos, e ser efetuado um sorte
 
 <h2>PREVIEW DO PROJETO</h2>
 
+<img src="https://github.com/Primedina/SORTEADOR/blob/main/assets/tela.png?raw=true" width="550" heigth="250" margin="10">
+
+<h2>FUNÇÃO UTILIZADA</h2>
+
+<p>Foi  utilizado a função <b>Random</b> nesse projeto que retornar um número entre 0 e 1  e depois foi dimensionado para intervalor desejado.</p>
+
 
 
