@@ -99,9 +99,9 @@ button {
 
 @media screen and (max-width:900px) {
     img {
-        height: 100%;
-        width: 100%;
-        margin: 80px 45px 80px 120px;
+       height:100%;
+       width:150%;
+        margin: 80px 55px 80px 60px;
         align-items: center;
         margin-bottom: 30px;
 
@@ -111,9 +111,11 @@ button {
 @media screen and (max-width:900px) {
     h2 {
 
-        font-size: 20px;
-        display: inline;
-        margin: 10px 0 10px 200px;
+        font-size: 35px;
+       display: inline-block;
+   margin:0 260px;
+   width: 200px;
+  
 
     }
 }
@@ -123,7 +125,7 @@ button {
     #placeholder-number {
 
         margin-top: 45px;
-        margin-left: 100px;
+        margin-left: 185px;
         font-size: 15px;
     }
 
@@ -133,7 +135,7 @@ button {
 @media screen and (max-width:900px) {
     button {
 
-        margin: 35px 12px 0 180px;
+        margin: 35px 0px 0 255px;
         width: 180px;
         height: 45px;
         font-size: 25px;
