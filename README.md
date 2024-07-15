@@ -1,4 +1,4 @@
-<h1>SORTEADOR</h1>
+<h1>SORTEIO</h1>
 
 <p>Esse é um  repositório  de uma aplicação de sorteio .
 Pode ser escolhido dois valores, positivos ou negativos, e ser efetuado um sorteio aleatório escolhendo apenas um número do intervalor , inclusive o número incial e o número final</p>
