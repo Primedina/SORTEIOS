@@ -97,10 +97,10 @@ button {
     cursor: pointer;
 }
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:600px) {
     img {
        height:100%;
-       width:150%;
+     position: sticky;
         margin: 80px 55px 80px 60px;
         align-items: center;
         margin-bottom: 30px;
@@ -108,7 +108,7 @@ button {
     }
 }
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:600px) {
     h2 {
 
         font-size: 35px;
@@ -121,7 +121,7 @@ button {
 }
 
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:600px) {
     #placeholder-number {
 
         margin-top: 45px;
@@ -132,7 +132,7 @@ button {
 
 }
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:600px) {
     button {
 
         margin: 35px 0px 0 255px;
